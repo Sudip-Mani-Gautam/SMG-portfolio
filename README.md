@@ -1,9 +1,6 @@
 # Sudip Mani Gautam - Portfolio Website
 
 Link For My Portfolio is "https://sudip-mani-gautam.github.io/SMG-portfolio/"
-                          https://sudip-mani-gautam.github.io/SMG-portfolio
-                          https://sudip-mani-gautam.github.io/SMG-portfolio/
-                          https://sudip-mani-gautam.github.io/SMG-portfolio/
 
 
 portfolio/
