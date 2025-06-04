@@ -8,7 +8,8 @@ portfolio/
 │   └── projects/       # Project screenshots
 └── README.md           # Repository documentation
 
-![Website Preview](assets/preview.jpg)
+![Website Preview]https://sudip-mani-gautam.github.io/SMG-portfolio/
+![https://sudip-mani-gautam.github.io/SMG-portfolio/]
 
 This is my professional portfolio website showcasing my skills, projects, education, and contact information.
 
