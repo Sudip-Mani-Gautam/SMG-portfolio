@@ -12,7 +12,9 @@ portfolio/
 │   └── projects/       # Project screenshots
 └── README.md           # Repository documentation
 
-![Website Preview](assets/preview.jpg)
+![Website Preview]
+### Website Preview
+![https://sudip-mani-gautam.github.io/SMG-portfolio/]
 
 This is my professional portfolio website showcasing my skills, projects, education, and contact information.
 
@@ -50,7 +52,7 @@ This is my professional portfolio website showcasing my skills, projects, educat
 2. Push these files to the `main` branch
 3. Go to Repository Settings > Pages
 4. Select "Deploy from a branch" and choose the `main` branch
-5. Your site will be live at `https://your-github-username.github.io/sudip-mani-gautam-portfolio`
+5. Your site will be live at Website Preview
 
 ## License
 
