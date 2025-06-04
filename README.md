@@ -37,7 +37,7 @@ This is my professional portfolio website showcasing my skills, projects, educat
 
 1. Clone this repository or download the files
 2. Open `index.html` in your browser
-3. Or visit the GitHub Pages hosted version at [your-github-username.github.io/sudip-mani-gautam-portfolio](https://your-github-username.github.io/sudip-mani-gautam-portfolio)
+3. Or visit the GitHub Pages hosted version at [https://sudip-mani-gautam.github.io/SMG-portfolio/]
 
 ## Customization
 
